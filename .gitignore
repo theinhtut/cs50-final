@@ -1,4 +1,5 @@
 .vscode/c_cpp_properties.json
+temp-iot/env.h
 
 # Logs and databases #
 ######################
