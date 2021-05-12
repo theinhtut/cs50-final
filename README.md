@@ -1,5 +1,5 @@
 # Temperature and Humidity Monitoring
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://youtu.be/5u8QMonj6NQ
 #### Description:
 Monitoring temperature and humidity value over the Internet using ESP32 Dev Kits and Blynk iOS app.
 
